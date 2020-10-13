@@ -34,7 +34,7 @@
         <jetty.version>9.4.26.v20200117</jetty.version>
         <jetty2.version>9.4.19.v20190610</jetty2.version>
 
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.16.18</lombok.version>
         <sl4j.version>1.7.28</sl4j.version>
         <log4j.version>1.2.17</log4j.version>
