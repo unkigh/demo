@@ -29,7 +29,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <commons.version>2.6</commons.version>
+        <commons.version>2.7</commons.version>
         <fastjson.version>1.2.50</fastjson.version>
         <jetty.version>9.4.26.v20200117</jetty.version>
         <jetty2.version>9.4.19.v20190610</jetty2.version>
@@ -45,7 +45,7 @@
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
-                <version> ${commons.version} </version>
+                <version> ${commons.version}</version>
             </dependency>
 
             <!--与Tomcat相比更轻量-->
