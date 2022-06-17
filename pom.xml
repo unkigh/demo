@@ -30,7 +30,7 @@
     <properties>
         <java.version>1.8</java.version>
         <commons.version>2.6</commons.version>
-        <fastjson.version>1.2.50</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jetty.version>9.4.26.v20200117</jetty.version>
         <jetty2.version>9.4.19.v20190610</jetty2.version>
 
